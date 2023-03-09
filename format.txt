@@ -1,0 +1,9 @@
+konvex modelliert
+ursprung? (1.0, 0.5, 0.5)
+num_points
+point_x  point_y  point_z
+num_connections_stating_1
+connection_num connection_num
+num_flächen farbe
+num_points farbe
+num_point
